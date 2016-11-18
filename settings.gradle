@@ -1,1 +1,1 @@
-include ':app', ':zhuanzhuanzhuan'
+include ':app', ':zhuanzhuan'
